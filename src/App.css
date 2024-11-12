@@ -1,0 +1,12 @@
+:root {
+    background: rgb(20, 20, 20); /* 12, 12, 22 */
+    color: rgb(255, 255, 255, 0.87);/* #eeeeee */
+}
+
+.medium_emphasis_text {
+    color: rgb(255, 255, 255, 0.6);
+}
+
+.disabled_text {
+    color: rgb(255, 255, 255, 0.38)
+}
